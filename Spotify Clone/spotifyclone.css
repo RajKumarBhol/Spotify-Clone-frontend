@@ -5,6 +5,7 @@ body{
     color: #fff;
     overflow: hidden;
 }
+
 .main{
     display: flex;
     height: 100vh;
